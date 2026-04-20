@@ -1,4 +1,4 @@
-# Optimizing Revenue Efficiency through Pricing, Channel, and Customer Insights
+# Revenue Efficiency Optimization (Pricing, Channel & Customer Analysis)
 
 *Case study using a synthetic global product sales dataset based on Apple Inc.'s product ecosystem.*
 
