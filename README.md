@@ -11,7 +11,7 @@
 
 In highly competitive consumer electronics markets, revenue growth alone is no longer sufficient. Companies must focus on revenue efficiency, maximizing value per transaction while managing operational risks such as product returns and pricing inefficiencies.
 
-This project analyzes global product sales data to evaluate how **pricing strategies, sales channels, and customer behavior** impact overall revenue efficiency.
+This project analyzes global product sales data to evaluate how pricing strategies, sales channels, and customer behavior impact overall revenue efficiency.
 
 Key business questions:
 - Which products and regions drive the most revenue?
@@ -48,11 +48,8 @@ The dataset contains 11,500 transaction-level records across 27 features (2022â€
 This analysis reveals four key findings:
 
 1. Revenue is highly concentrated in core product categories (Mac, iPhone, iPad) and regions (Europe and Asia), indicating strong primary drivers but potential dependency risks.
-
 2. Discount strategies show diminishing returns, where higher discounts increase volume but reduce revenue efficiency per transaction.
-
 3. Sales channels perform similarly in efficiency, suggesting limited differentiation and potential missed optimization opportunities.
-
 4. Return rates are relatively consistent across categories, with only minor variation, indicating stable operations but limited differentiation in product risk.
 
 Overall, the business demonstrates strong revenue generation but requires optimization in pricing strategy and channel positioning to improve efficiency.
@@ -122,8 +119,8 @@ Other regions contribute significantly less and show minimal differentiation
   <img src="return-rate-category.png" width="700"/>
 </p>
 
-- Highest: iPad (~8.13%)  
-- Lowest: Apple Watch (~6.84%)  
+- Highest: iPad (~8%)  
+- Lowest: Apple Watch (~6%)  
 - Others: relatively similar range
 
 **Insight:**
